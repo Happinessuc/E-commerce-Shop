@@ -1,0 +1,20 @@
+.mod-del {
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.order-for {
+    font-family: montserrat;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0;
+
+}
+
+.span-one {
+    text-decoration: underline;
+    cursor: pointer;
+}
